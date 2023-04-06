@@ -1,0 +1,31 @@
+Github: permet de sauvegarder son code (il est sur cloud)
+le partager à d'autres
+
+Installation: 
+1/ Git download
+Git bash: invite de commande
+Git hub cheat sheet: le basic pour versionner son taff
+
+Invite de commande:
+pwd: 
+cd desktop: ca nous met sur le bureau, et maintenant ca va nous ajouter un
+dossier directement sur le bureau 
+
+Pour commencer à coder:
+1/git init
+2/code . (vs code apparait)
+3/ On code
+4/ On fait une sauvegarde en local 1st puis dépôt distant (cf pdf cours pour les commandes)
+
+Si on update le code et qu'on veut se le sauvegarder
+(git init plus nécessaire car déjà fait la 1ère fois)
+(si on veut la 1ère version de son cours, on le récupère grâce au "git log" = "commit ..."
+1/ git add
+
+sha-1 = le log du code
+
+Si on veut revenir au 1er code (master)
+1/git checkout (copy/paste du log) = côté VScode, il reset instanténement les update et revient au 1er code (master)
+
+git checkout master = on revient au code actuel
+
