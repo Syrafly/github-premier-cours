@@ -29,3 +29,5 @@ Si on veut revenir au 1er code (master)
 
 git checkout master = on revient au code actuel
 
+Cmt partager code en ligne: aller dans repository
+
